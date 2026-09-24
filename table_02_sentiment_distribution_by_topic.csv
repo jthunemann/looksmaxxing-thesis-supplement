@@ -1,0 +1,43 @@
+topic,topic_label,sentiment_label,n_threads,topic_total_threads,percentage_within_topic,topic_display
+0,"Craniofacial, dental, and injectable facial modification",negative,67,203,33.0,"Topic 0: Craniofacial, dental, and injectable facial modification"
+0,"Craniofacial, dental, and injectable facial modification",neutral,125,203,61.58,"Topic 0: Craniofacial, dental, and injectable facial modification"
+0,"Craniofacial, dental, and injectable facial modification",positive,11,203,5.42,"Topic 0: Craniofacial, dental, and injectable facial modification"
+1,"Dieting, calorie restriction, and body composition",negative,48,121,39.67,"Topic 1: Dieting, calorie restriction, and body composition"
+1,"Dieting, calorie restriction, and body composition",neutral,59,121,48.76,"Topic 1: Dieting, calorie restriction, and body composition"
+1,"Dieting, calorie restriction, and body composition",positive,14,121,11.57,"Topic 1: Dieting, calorie restriction, and body composition"
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement",negative,35,109,32.11,"Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement"
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement",neutral,59,109,54.13,"Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement"
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement",positive,15,109,13.76,"Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement"
+3,"Acne treatment, skincare, and pigmentation",negative,42,105,40.0,"Topic 3: Acne treatment, skincare, and pigmentation"
+3,"Acne treatment, skincare, and pigmentation",neutral,47,105,44.76,"Topic 3: Acne treatment, skincare, and pigmentation"
+3,"Acne treatment, skincare, and pigmentation",positive,16,105,15.24,"Topic 3: Acne treatment, skincare, and pigmentation"
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal",negative,57,93,61.29,"Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal"
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal",neutral,26,93,27.96,"Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal"
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal",positive,10,93,10.75,"Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal"
+5,Facial feature adjustment and appearance improvement,negative,25,89,28.09,Topic 5: Facial feature adjustment and appearance improvement
+5,Facial feature adjustment and appearance improvement,neutral,55,89,61.8,Topic 5: Facial feature adjustment and appearance improvement
+5,Facial feature adjustment and appearance improvement,positive,9,89,10.11,Topic 5: Facial feature adjustment and appearance improvement
+6,Attractiveness ratings and looks-based classification,negative,34,76,44.74,Topic 6: Attractiveness ratings and looks-based classification
+6,Attractiveness ratings and looks-based classification,neutral,28,76,36.84,Topic 6: Attractiveness ratings and looks-based classification
+6,Attractiveness ratings and looks-based classification,positive,14,76,18.42,Topic 6: Attractiveness ratings and looks-based classification
+7,Hormonal and pharmacological enhancement,negative,32,73,43.84,Topic 7: Hormonal and pharmacological enhancement
+7,Hormonal and pharmacological enhancement,neutral,32,73,43.84,Topic 7: Hormonal and pharmacological enhancement
+7,Hormonal and pharmacological enhancement,positive,9,73,12.33,Topic 7: Hormonal and pharmacological enhancement
+8,"Facial harmony, dimorphism, and attractiveness ratios",negative,21,60,35.0,"Topic 8: Facial harmony, dimorphism, and attractiveness ratios"
+8,"Facial harmony, dimorphism, and attractiveness ratios",neutral,36,60,60.0,"Topic 8: Facial harmony, dimorphism, and attractiveness ratios"
+8,"Facial harmony, dimorphism, and attractiveness ratios",positive,3,60,5.0,"Topic 8: Facial harmony, dimorphism, and attractiveness ratios"
+9,"Height, growth hormone, and growth plates",negative,29,59,49.15,"Topic 9: Height, growth hormone, and growth plates"
+9,"Height, growth hormone, and growth plates",neutral,29,59,49.15,"Topic 9: Height, growth hormone, and growth plates"
+9,"Height, growth hormone, and growth plates",positive,1,59,1.69,"Topic 9: Height, growth hormone, and growth plates"
+10,"Motivation, persistence, and self-improvement framing",negative,17,50,34.0,"Topic 10: Motivation, persistence, and self-improvement framing"
+10,"Motivation, persistence, and self-improvement framing",neutral,20,50,40.0,"Topic 10: Motivation, persistence, and self-improvement framing"
+10,"Motivation, persistence, and self-improvement framing",positive,13,50,26.0,"Topic 10: Motivation, persistence, and self-improvement framing"
+11,"Hair density, scalp, forehead, and hairstyle",negative,15,44,34.09,"Topic 11: Hair density, scalp, forehead, and hairstyle"
+11,"Hair density, scalp, forehead, and hairstyle",neutral,25,44,56.82,"Topic 11: Hair density, scalp, forehead, and hairstyle"
+11,"Hair density, scalp, forehead, and hairstyle",positive,4,44,9.09,"Topic 11: Hair density, scalp, forehead, and hairstyle"
+12,Peptides and biochemical enhancement,negative,12,37,32.43,Topic 12: Peptides and biochemical enhancement
+12,Peptides and biochemical enhancement,neutral,18,37,48.65,Topic 12: Peptides and biochemical enhancement
+12,Peptides and biochemical enhancement,positive,7,37,18.92,Topic 12: Peptides and biochemical enhancement
+13,Bonesmashing and mechanical facial-change theories,negative,18,36,50.0,Topic 13: Bonesmashing and mechanical facial-change theories
+13,Bonesmashing and mechanical facial-change theories,neutral,16,36,44.44,Topic 13: Bonesmashing and mechanical facial-change theories
+13,Bonesmashing and mechanical facial-change theories,positive,2,36,5.56,Topic 13: Bonesmashing and mechanical facial-change theories
