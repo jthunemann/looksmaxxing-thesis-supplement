@@ -97,23 +97,42 @@
 
   <section class="card">
   <h2>Interactive figures</h2>
+
   <p>
     The figures below present aggregated, deidentified outputs from the topic,
     sentiment, and emotion analyses. They do not contain raw forum text,
     thread URLs, thread IDs, usernames, or direct quotes.
   </p>
 
+  <h3>Figure 1. Number of threads per BERTopic topic</h3>
+  <p>
+    This figure shows the number of threads assigned to each interpretable
+    BERTopic topic. The BERTopic outlier category is excluded from the bars.
+  </p>
+
+  <iframe 
+    src="figures/figure_01_topic_document_counts.html"
+    width="100%" 
+    height="850" 
+    style="border:1px solid #ddd; border-radius:8px;">
+  </iframe>
+
+  <h3>Figure 2. Sentiment distribution by BERTopic topic</h3>
+  <p>
+    This figure shows the percentage of threads classified as negative,
+    neutral, or positive within each interpretable BERTopic topic. The BERTopic
+    outlier category is excluded from the bars.
+  </p>
+
+  <iframe 
+    src="figures/figure_02_sentiment_distribution_by_topic.html"
+    width="100%" 
+    height="850" 
+    style="border:1px solid #ddd; border-radius:8px;">
+  </iframe>
+
+  <h3>Upcoming figures</h3>
   <ul>
-    <li>
-      <a href="figures/figure_01_topic_document_counts.html">
-        Figure 1. Number of threads per BERTopic topic
-      </a>
-    </li>
-   <li>
-  <a href="figures/figure_02_sentiment_distribution_by_topic.html">
-    Figure 2. Sentiment distribution by BERTopic topic
-  </a>
-</li>
     <li>Figure 3. Emotion heatmap by topic – coming soon</li>
     <li>Figure 4. Topic similarity map – coming soon</li>
   </ul>
