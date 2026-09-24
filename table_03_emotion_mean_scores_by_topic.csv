@@ -1,0 +1,15 @@
+topic,topic_label,emotion_anger,emotion_anticipation,emotion_disgust,emotion_fear,emotion_joy,emotion_love,emotion_optimism,emotion_pessimism,emotion_sadness,emotion_surprise,emotion_trust,topic_display
+0,"Craniofacial, dental, and injectable facial modification",0.3,0.408,0.341,0.103,0.273,0.018,0.308,0.095,0.179,0.077,0.057,"Topic 0: Craniofacial, dental, and injectable facial modification"
+1,"Dieting, calorie restriction, and body composition",0.362,0.274,0.361,0.063,0.356,0.022,0.422,0.112,0.244,0.04,0.064,"Topic 1: Dieting, calorie restriction, and body composition"
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement",0.314,0.387,0.336,0.083,0.327,0.02,0.336,0.083,0.152,0.066,0.058,"Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement"
+3,"Acne treatment, skincare, and pigmentation",0.436,0.293,0.434,0.079,0.286,0.013,0.344,0.09,0.187,0.051,0.057,"Topic 3: Acne treatment, skincare, and pigmentation"
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal",0.615,0.209,0.565,0.04,0.335,0.034,0.31,0.077,0.208,0.045,0.05,"Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal"
+5,Facial feature adjustment and appearance improvement,0.227,0.384,0.246,0.079,0.314,0.013,0.486,0.112,0.228,0.042,0.068,Topic 5: Facial feature adjustment and appearance improvement
+6,Attractiveness ratings and looks-based classification,0.521,0.281,0.491,0.041,0.405,0.029,0.279,0.051,0.135,0.069,0.048,Topic 6: Attractiveness ratings and looks-based classification
+7,Hormonal and pharmacological enhancement,0.538,0.265,0.53,0.073,0.294,0.019,0.252,0.074,0.165,0.066,0.036,Topic 7: Hormonal and pharmacological enhancement
+8,"Facial harmony, dimorphism, and attractiveness ratios",0.551,0.263,0.509,0.026,0.354,0.017,0.24,0.054,0.136,0.061,0.033,"Topic 8: Facial harmony, dimorphism, and attractiveness ratios"
+9,"Height, growth hormone, and growth plates",0.523,0.263,0.516,0.104,0.268,0.021,0.229,0.081,0.197,0.063,0.037,"Topic 9: Height, growth hormone, and growth plates"
+10,"Motivation, persistence, and self-improvement framing",0.423,0.194,0.385,0.079,0.477,0.05,0.527,0.066,0.17,0.034,0.064,"Topic 10: Motivation, persistence, and self-improvement framing"
+11,"Hair density, scalp, forehead, and hairstyle",0.376,0.337,0.377,0.035,0.411,0.023,0.377,0.065,0.162,0.061,0.06,"Topic 11: Hair density, scalp, forehead, and hairstyle"
+12,Peptides and biochemical enhancement,0.441,0.348,0.437,0.109,0.327,0.021,0.273,0.066,0.125,0.08,0.053,Topic 12: Peptides and biochemical enhancement
+13,Bonesmashing and mechanical facial-change theories,0.444,0.328,0.454,0.041,0.259,0.011,0.217,0.092,0.206,0.064,0.04,Topic 13: Bonesmashing and mechanical facial-change theories
