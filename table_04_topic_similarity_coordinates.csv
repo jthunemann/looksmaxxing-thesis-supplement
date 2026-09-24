@@ -1,0 +1,15 @@
+topic,topic_label,n_threads,x,y,topic_display
+0,"Craniofacial, dental, and injectable facial modification",203,0.1443029320567466,0.06269823483097013,"Topic 0: Craniofacial, dental, and injectable facial modification"
+1,"Dieting, calorie restriction, and body composition",121,0.06456642815389375,-0.24988697183168954,"Topic 1: Dieting, calorie restriction, and body composition"
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement",109,0.2127126907768585,0.21822304471538287,"Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement"
+3,"Acne treatment, skincare, and pigmentation",105,0.3500234523271073,0.04773698429413997,"Topic 3: Acne treatment, skincare, and pigmentation"
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal",93,-0.16730312272692488,0.22344384991606472,"Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal"
+5,Facial feature adjustment and appearance improvement,89,0.027468842998453917,0.09840021762436015,Topic 5: Facial feature adjustment and appearance improvement
+6,Attractiveness ratings and looks-based classification,76,-0.25271953758821897,0.14288197220680107,Topic 6: Attractiveness ratings and looks-based classification
+7,Hormonal and pharmacological enhancement,73,-0.09682139451685048,-0.22499798074299382,Topic 7: Hormonal and pharmacological enhancement
+8,"Facial harmony, dimorphism, and attractiveness ratios",60,-0.2946555901490477,0.26392923764236387,"Topic 8: Facial harmony, dimorphism, and attractiveness ratios"
+9,"Height, growth hormone, and growth plates",59,-0.3076554897729186,-0.22194139626152634,"Topic 9: Height, growth hormone, and growth plates"
+10,"Motivation, persistence, and self-improvement framing",50,-0.08481007287636894,-0.035335769508856474,"Topic 10: Motivation, persistence, and self-improvement framing"
+11,"Hair density, scalp, forehead, and hairstyle",44,0.11061876612620128,0.40593464889370434,"Topic 11: Hair density, scalp, forehead, and hairstyle"
+12,Peptides and biochemical enhancement,37,-0.061772818593036974,-0.42702202863178723,Topic 12: Peptides and biochemical enhancement
+13,Bonesmashing and mechanical facial-change theories,36,0.35604491378410513,-0.30406404314693375,Topic 13: Bonesmashing and mechanical facial-change theories
