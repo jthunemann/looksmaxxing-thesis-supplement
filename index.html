@@ -169,12 +169,38 @@ td:first-child {
   style="border:1px solid #ddd; border-radius:8px;">
 </iframe>
 
-<h3>Upcoming figures</h3>
-<ul>
-  <li>Figure 4. Topic similarity map – coming soon</li>
-</ul>
-</section>
+<h3>Figure 4. Topic similarity map</h3>
+<p>
+  This figure shows the relative similarity of the interpretable BERTopic
+  topics. Each point represents one topic, and point size indicates the number
+  of threads assigned to that topic. Distances are based on average
+  sentence-transformer embeddings for the threads within each topic. The
+  BERTopic outlier category is excluded. Because the figure is a two-dimensional
+  projection of high-dimensional topic representations, distances should be
+  interpreted as approximate and exploratory rather than exact measurements.
+</p>
 
+<iframe 
+  src="figures/figure_04_topic_similarity_map.html"
+  width="100%" 
+  height="850" 
+  style="border:1px solid #ddd; border-radius:8px;">
+</iframe>
+
+<h3>Figure 5. Top c-TF-IDF terms per BERTopic topic</h3>
+<p>
+  This figure shows the highest-scoring c-TF-IDF terms for each interpretable
+  BERTopic topic. The dropdown menu can be used to switch between topics.
+  Terms were used to support topic interpretation and labelling. The BERTopic
+  outlier category is excluded.
+</p>
+
+<iframe 
+  src="figures/figure_05_topic_term_barchart.html"
+  width="100%" 
+  height="720" 
+  style="border:1px solid #ddd; border-radius:8px;">
+</iframe>
 <section class="card">
   <h2>Supplementary tables</h2>
 
