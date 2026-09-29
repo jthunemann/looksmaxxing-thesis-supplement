@@ -1,0 +1,141 @@
+topic,topic_label,topic_display,term_rank,term,ctfidf_score
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",1,medium,0.02857
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",2,filler,0.025795
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",3,neck,0.025544
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",4,teeth,0.023529
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",5,maxilla,0.022041
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",6,lip,0.01994
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",7,forward,0.018514
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",8,class,0.016962
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",9,bite,0.016825
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",10,braces,0.016613
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",1,td,0.052617
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",2,calories,0.03756
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",3,milk,0.026569
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",4,calorie,0.024977
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",5,fasting,0.021933
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",6,food,0.021513
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",7,deficit,0.020542
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",8,myostatin,0.01733
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",9,fruit,0.016151
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",10,intake,0.015686
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",1,eyebrows,0.036345
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",2,eyelid,0.028408
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",3,contacts,0.026621
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",4,eye area,0.025836
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",5,brow,0.025427
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",6,lashes,0.022721
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",7,eyelashes,0.019478
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",8,brows,0.019397
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",9,uee,0.01763
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",10,green,0.017393
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",1,accutane,0.053796
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",2,tretinoin,0.032038
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",3,moisturizer,0.027433
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",4,isotretinoin,0.026969
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",5,sunscreen,0.022954
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",6,indiamart,0.022909
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",7,tret,0.022814
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",8,marks,0.020231
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",9,skincare,0.019843
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",10,tan,0.017316
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",1,asd,0.022125
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",2,knowledge,0.014765
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",3,attractive,0.014339
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",4,woman,0.013259
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",5,ogre,0.012527
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",6,hypergamy,0.011589
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",7,social,0.010546
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",8,ltn,0.010428
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",9,tier,0.009501
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",10,attention,0.009162
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,1,aqualyx,0.03
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,2,eyebrows,0.029796
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,3,makeup,0.018398
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,4,debloat,0.017463
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,5,accutane,0.017172
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,6,kg,0.015743
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,7,coloring,0.014521
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,8,face fat,0.013487
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,9,body fat,0.01346
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,10,dye,0.01324
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,1,ltn,0.060312
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,2,rating,0.045788
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,3,psl,0.030194
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,4,ratings,0.029073
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,5,lmtn,0.028276
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,6,sub,0.026105
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,7,hltn,0.023992
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,8,lhtn,0.021473
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,9,mmtn,0.020887
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,10,hmtn,0.020777
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,1,ed,0.081384
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,2,tren,0.040266
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,3,reta,0.029207
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,4,5mg,0.027349
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,5,gh,0.026644
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,6,roids,0.025337
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,7,weekly,0.017989
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,8,dht,0.017515
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,9,enanthate,0.01724
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,10,100mg,0.016173
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",1,harmony,0.064941
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",2,dimorphism,0.03999
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",3,ratios,0.034936
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",4,formula,0.034721
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",5,score,0.029924
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",6,angularity,0.023791
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",7,t1,0.023633
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",8,width,0.022347
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",9,esr,0.018762
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",10,measure,0.018385
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",1,ed,0.060438
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",2,gh,0.045433
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",3,somatostatin,0.039134
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",4,growth hormone,0.025706
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",5,plates,0.025158
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",6,ghrp2,0.024137
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",7,inches,0.022144
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",8,taller,0.019929
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",9,growth plates,0.017914
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",10,cells,0.017613
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",1,waves,0.037422
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",2,curls,0.035756
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",3,volume,0.032339
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",4,curly,0.029475
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",5,wavy,0.025054
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",6,lifefuel,0.019013
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",7,calories,0.018316
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",8,lifefuel motivation,0.018228
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",9,motivation,0.018205
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",10,layered,0.017505
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",1,density,0.043907
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",2,scalp,0.038279
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",3,forehead,0.036049
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",4,styles,0.035719
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",5,texture,0.033567
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",6,volume,0.030137
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",7,textured,0.029652
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",8,width,0.028931
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",9,medium,0.028341
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",10,avoid,0.026077
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,1,ghk,0.081893
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,2,peptide,0.077322
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,3,cu,0.060052
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,4,ghk cu,0.058721
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,5,reta,0.034725
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,6,cjc,0.029779
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,7,semax,0.029382
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,8,gh,0.025616
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,9,repair,0.024528
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,10,bac,0.024065
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,1,signaling,0.05224
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,2,cells,0.044133
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,3,bonesmashing,0.043594
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,4,mechanical,0.03547
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,5,matrix,0.03303
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,6,pathway,0.028402
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,7,calcium,0.028373
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,8,collagen,0.026921
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,9,periosteal,0.024614
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,10,osteoblast,0.023835
