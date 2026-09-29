@@ -52,6 +52,29 @@
       font-size: 0.9em;
       color: #555;
     }
+    table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+  background: white;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: #f1f1f1;
+  font-weight: bold;
+}
+
+td:first-child {
+  white-space: nowrap;
+  font-weight: bold;
+}
   </style>
 </head>
 
@@ -152,10 +175,80 @@
 </ul>
 </section>
 
-  <section class="card">
-    <h2>Supplementary tables</h2>
-    <p>Aggregated result tables will be added here step by step.</p>
-  </section>
+<section class="card">
+  <h2>Supplementary tables</h2>
+
+  <p>
+    The tables below provide aggregated, deidentified outputs that accompany
+    the interactive figures. They do not contain raw forum text, thread URLs,
+    thread IDs, usernames, or direct quotes.
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Table</th>
+        <th>Description</th>
+        <th>File</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>Table 1</td>
+        <td>
+          Topic document counts, including the number and percentage of threads
+          assigned to each interpretable BERTopic topic.
+        </td>
+        <td>
+          <a href="tables/table_01_topic_document_counts.csv">
+            Download CSV
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>Table 2</td>
+        <td>
+          Sentiment distribution by BERTopic topic, including negative,
+          neutral, and positive classifications within each topic.
+        </td>
+        <td>
+          <a href="tables/table_02_sentiment_distribution_by_topic.csv">
+            Download CSV
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>Table 3</td>
+        <td>
+          Mean exploratory emotion-classification scores by BERTopic topic.
+          Emotion scores indicate textual emotion signals and should not be
+          interpreted as direct measures of users' emotional states.
+        </td>
+        <td>
+          <a href="tables/table_03_emotion_mean_scores_by_topic.csv">
+            Download CSV
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>Table 4</td>
+        <td>
+          Topic similarity map coordinates, topic labels, and topic sizes used
+          for the interactive topic similarity map.
+        </td>
+        <td>
+          <a href="tables/table_04_topic_similarity_coordinates.csv">
+            Download CSV
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
 
   <section class="card">
     <h2>How to cite</h2>
