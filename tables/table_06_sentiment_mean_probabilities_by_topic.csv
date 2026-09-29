@@ -1,0 +1,15 @@
+topic,topic_label,sentiment_negative,sentiment_neutral,sentiment_positive,topic_display
+0,"Craniofacial, dental, and injectable facial modification",0.349,0.498,0.153,"Topic 0: Craniofacial, dental, and injectable facial modification"
+1,"Dieting, calorie restriction, and body composition",0.361,0.449,0.19,"Topic 1: Dieting, calorie restriction, and body composition"
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement",0.353,0.458,0.188,"Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement"
+3,"Acne treatment, skincare, and pigmentation",0.399,0.427,0.174,"Topic 3: Acne treatment, skincare, and pigmentation"
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal",0.482,0.343,0.175,"Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal"
+5,Facial feature adjustment and appearance improvement,0.328,0.486,0.186,Topic 5: Facial feature adjustment and appearance improvement
+6,Attractiveness ratings and looks-based classification,0.381,0.403,0.216,Topic 6: Attractiveness ratings and looks-based classification
+7,Hormonal and pharmacological enhancement,0.387,0.44,0.173,Topic 7: Hormonal and pharmacological enhancement
+8,"Facial harmony, dimorphism, and attractiveness ratios",0.382,0.487,0.131,"Topic 8: Facial harmony, dimorphism, and attractiveness ratios"
+9,"Height, growth hormone, and growth plates",0.454,0.451,0.095,"Topic 9: Height, growth hormone, and growth plates"
+10,"Motivation, persistence, and self-improvement framing",0.301,0.386,0.313,"Topic 10: Motivation, persistence, and self-improvement framing"
+11,"Hair density, scalp, forehead, and hairstyle",0.378,0.433,0.189,"Topic 11: Hair density, scalp, forehead, and hairstyle"
+12,Peptides and biochemical enhancement,0.341,0.436,0.223,Topic 12: Peptides and biochemical enhancement
+13,Bonesmashing and mechanical facial-change theories,0.434,0.454,0.112,Topic 13: Bonesmashing and mechanical facial-change theories

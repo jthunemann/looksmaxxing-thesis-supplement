@@ -1,0 +1,15 @@
+topic,topic_label,topic_display,top_emotion_1,top_emotion_1_score,top_emotion_2,top_emotion_2_score,top_emotion_3,top_emotion_3_score
+0,"Craniofacial, dental, and injectable facial modification","Topic 0: Craniofacial, dental, and injectable facial modification",anticipation,0.408,disgust,0.341,optimism,0.308
+1,"Dieting, calorie restriction, and body composition","Topic 1: Dieting, calorie restriction, and body composition",optimism,0.422,anger,0.362,disgust,0.361
+2,"Eye area, eyebrows, lashes, and cosmetic enhancement","Topic 2: Eye area, eyebrows, lashes, and cosmetic enhancement",anticipation,0.387,disgust,0.336,optimism,0.336
+3,"Acne treatment, skincare, and pigmentation","Topic 3: Acne treatment, skincare, and pigmentation",anger,0.436,disgust,0.434,optimism,0.344
+4,"Social hierarchy, charm-maxxing, and interpersonal appeal","Topic 4: Social hierarchy, charm-maxxing, and interpersonal appeal",anger,0.615,disgust,0.565,joy,0.335
+5,Facial feature adjustment and appearance improvement,Topic 5: Facial feature adjustment and appearance improvement,optimism,0.486,anticipation,0.384,joy,0.314
+6,Attractiveness ratings and looks-based classification,Topic 6: Attractiveness ratings and looks-based classification,anger,0.521,disgust,0.491,joy,0.405
+7,Hormonal and pharmacological enhancement,Topic 7: Hormonal and pharmacological enhancement,anger,0.538,disgust,0.53,joy,0.294
+8,"Facial harmony, dimorphism, and attractiveness ratios","Topic 8: Facial harmony, dimorphism, and attractiveness ratios",anger,0.551,disgust,0.509,joy,0.354
+9,"Height, growth hormone, and growth plates","Topic 9: Height, growth hormone, and growth plates",anger,0.523,disgust,0.516,joy,0.268
+10,"Motivation, persistence, and self-improvement framing","Topic 10: Motivation, persistence, and self-improvement framing",optimism,0.527,joy,0.477,anger,0.423
+11,"Hair density, scalp, forehead, and hairstyle","Topic 11: Hair density, scalp, forehead, and hairstyle",joy,0.411,disgust,0.377,optimism,0.377
+12,Peptides and biochemical enhancement,Topic 12: Peptides and biochemical enhancement,anger,0.441,disgust,0.437,anticipation,0.348
+13,Bonesmashing and mechanical facial-change theories,Topic 13: Bonesmashing and mechanical facial-change theories,disgust,0.454,anger,0.444,anticipation,0.328
